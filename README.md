@@ -6,3 +6,12 @@ i started this project in late 2024 worked on it for a month and forgot about it
 
 # Current Stage
 currently its not far from being functional, right now im working on VFS and FAT32, mainly debugging hah
+
+## License
+
+[![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/License-PolyForm--Noncommercial--1.0.0-3b91d0.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0)
+
+- ✅ **Free for non-commercial use** (personal projects, non-profits, education, research)
+- 💼 **Commercial use requires permission** → Contact [RucixDev](mailto:contact@rucix.dev)
+
+See [`LICENSE`](LICENSE) for full terms.
