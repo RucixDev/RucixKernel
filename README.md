@@ -10,6 +10,9 @@ Kinda works but not usable.
 # For Devs
 If you are planning to use this as a learning-example or smth, give up thats my hobby project and it has 3 different generations of my code, it barerly boots and a lot of the code is just simplified or placeholders, not worth your time. and there are no comments bcs i use my own comment system in my IDE so exported code doesnt have any comments for C, in ASM you have couple of comments
 
+# Tips
+https://ko-fi.com/rucixdev
+
 ## License
 
 [![License: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/License-PolyForm--Noncommercial--1.0.0-3b91d0.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0)
